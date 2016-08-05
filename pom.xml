@@ -28,9 +28,9 @@
     -->
   </properties>
 
-  <name>TODO Plugin</name>
-  <description>TODO</description>
-  <url>https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin</url>
+  <name>Stromberg Plugin</name>
+  <description>Kommentare aus der Abteilung Schadensregulierung</description>
+  <url>https://github.com/stefanreichert/jenkins-stromberg-plugin</url>
 
   <!-- The default licence for Jenkins OSS Plugins is MIT. Substitute for the applicable one if needed. -->
 
