@@ -1,0 +1,10 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form" xmlns:i="jelly:fmt" xmlns:local="local">
+    <tr>
+        <td><img src="${rootURL}/plugin/jenkins-stromberg-plugin/images/stromberg-fail.jpg" width="48" height="72" alt="${it.displayName}"/></td>
+        <td style="vertical-align:middle">
+            <div><j:out value="${it.notice}"/></div>
+            <div><em>-<j:out value="${it.displayName}"/>-</em></div>
+        </td>
+    </tr>
+</j:jelly>
