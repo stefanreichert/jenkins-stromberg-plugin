@@ -7,6 +7,6 @@ Sowohl für erfolgreiche als auch für gescheiterte Builds gibt es eine Weisheit
 Einfach per <pre><code>mvn clean verify</code></pre> bauen und die HPI Datei dann auf dem Jenkins installieren.
 
 ## Jenkins Build Summary
-Bei installierten Plugin gibts dann auf der Build Summary einen neuen Eintrag.
+Bei installiertem Plugin gibts dann auf der Build Summary Seite einen neuen Eintrag.
 
 ![Screenshot Build Summary](screenshots/jenkins-build-summary.png)
