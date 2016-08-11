@@ -20,7 +20,7 @@ public class StrombergSuccessNotice implements Action {
 
     @Override
     public String getDisplayName() {
-        return "Bernd Stromberg, Leiter Schadensabteilung";
+        return "Bernd Stromberg, Leiter Schadensregulierung";
     }
 
     @Override
